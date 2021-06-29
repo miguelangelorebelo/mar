@@ -6,7 +6,7 @@ Connect with me via  &nbsp;<img width="20" src="https://avatars3.githubuserconte
 
 <hr>
 
-- 🏥 &nbsp;ML Engineer <a href="https://www.e-goi.com/pt/" target="_blank">@e-goi</a><br>
+- :robot: &nbsp;ML Engineer <a href="https://www.e-goi.com/pt/" target="_blank">@e-goi</a><br>
 - 🔬 &nbsp;Invited Researcher <a href="https://www.i3s.up.pt/" target="_blank">@i3s</a><br>
 - 🎓 &nbsp;Alum <a href="https://sigarra.up.pt/fcup/pt/web_page.inicial" target="_blank">@FCUP</a><br>
 - :musical_score: &nbsp;Music Composer <a href="https://miguelrebelo.com" target="_blank">@PersonalWebsite</a><br>
