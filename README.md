@@ -2,7 +2,7 @@
 
 I teach machines. <br>
 
-Connect with me via  &nbsp;<img width="20" src="https://avatars3.githubusercontent.com/u/357098?s=200&v=4"> <a href="https://www.linkedin.com/in/miguel-%C3%A2ngelo-rebelo-359354146/" target="_blank">LinkedIn</a><br>
+Connect with me via  &nbsp;<img width="20" src="https://avatars3.githubusercontent.com/u/357098?s=200&v=4"> <a href="linkedin.com/in/miguelangelorebelo" target="_blank">LinkedIn</a><br>
 
 <hr>
 
