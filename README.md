@@ -14,3 +14,4 @@ Connect with me via  &nbsp;<img width="20" src="https://avatars3.githubuserconte
 - :test_tube: &nbsp;Research <a href="https://orcid.org/0000-0003-0786-3362" target="_blank">@ORCiD</a><br>
 ![ORCiD](ORCID.png)
 
+<img src="ORCID.png" alt="drawing" width="200"/>
