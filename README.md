@@ -4,7 +4,7 @@ I teach machines. <br>
 
 Connect with me via  &nbsp;<img width="20" src="https://avatars3.githubusercontent.com/u/357098?s=200&v=4"> <a href="https://linkedin.com/in/miguelangelorebelo" target="_blank">LinkedIn</a><br>
 
-[ORCiD]!(ORCID.png)
+![ORCiD](ORCID.png)
 
 <hr>
 
